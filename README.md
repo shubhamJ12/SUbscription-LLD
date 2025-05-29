@@ -22,7 +22,7 @@ Service Packs:
  Design approach
 
 Using the bottom-up design approach. For this purpose, we will follow the steps below:
-Identify and design the smallest components first, such as a sim .
+Identify and design the smallest components first, such as a feature .
 
 
 ---
