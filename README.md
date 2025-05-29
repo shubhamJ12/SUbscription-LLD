@@ -459,7 +459,4 @@ public class Admin {
 }
 
 
-Let me know if you want these broken down into separate files, converted to an API structure (Spring Boot), or need relationships implemented in more detail.
-
-
 
