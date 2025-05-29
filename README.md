@@ -306,7 +306,8 @@ Subscription 1..* —> UsageRecord
 Subscription 1..* —> Bill
 
 
-![Uploading class_digram.png…]()
+![class_digram](https://github.com/user-attachments/assets/efce24bd-4314-4be7-b388-7a99fe9cc31d)
+
 
 
 
