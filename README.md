@@ -313,7 +313,8 @@ Subscription 1..* —> Bill
 
 **Activity Diagram**
 
-![Uploading image.png…]()
+![Activity](https://github.com/user-attachments/assets/f8fc0fd3-47b4-4b64-86a9-63449691b055)
+
 
 This is not clear I took help from internet generate image based on my sketch data on my copy
 
