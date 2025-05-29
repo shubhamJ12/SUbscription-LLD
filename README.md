@@ -306,7 +306,12 @@ Subscription 1..* —> UsageRecord
 Subscription 1..* —> Bill
 
 
+![Uploading class_digram.png…]()
 
+
+
+
+This is not clear I took help from internet generate image based on my sketch data on my copy
 
 
 
