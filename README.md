@@ -292,7 +292,30 @@ Charge Customer ──<<include>>── Generate Invoice
 Class Diagram 
 
 
+Relationships Overview:
+Product 1..* —> Offer
 
+Offer 1..* —> Variant
+
+Variant 1..* —> Feature
+
+Customer 1..* —> Subscription
+
+Subscription 1..* —> UsageRecord
+
+Subscription 1..* —> Bill
+
+
+
+
+
+
+
+**Activity Diagram**
+
+![Uploading image.png…]()
+
+This is not clear I took help from internet generate image based on my sketch data on my copy
 
 
 
